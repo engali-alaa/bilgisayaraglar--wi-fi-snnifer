@@ -1,4 +1,4 @@
-# 📡 Wi-Fi Sniffer Simulator
+# 📡wi-fi sniffer Bilgisayar ağlar DR.Hasan Serdar 
 
 ## 🧠 Overview
 **Wi-Fi Sniffer Simulator**, Wireshark benzeri bir arayüzde **ağ paketlerini simüle eden** ve **canlı olarak görüntüleyen** Python tabanlı bir uygulamadır.  
